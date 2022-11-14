@@ -3,9 +3,9 @@
 This is a Crypto Transacton App.
 
 ## Features:
-- Users can connect their Metamask wallet, send transactions which are stored on the blockchain and view their past transactions. 
+- Users can connect their Metamask wallet, send ETH transactions which are stored on the blockchain and view their past transactions. 
 
-## [Deployed Link]()
+## [Deployed Link](https://saurabh-eth-app.netlify.app/)
 ## Technologies Used:
 - Reactjs for the frontend
 - Tailwind CSS to provide styling to elements
